@@ -1,0 +1,192 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url("images/background2.jpg");
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+.heading{
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	margin-top: 0;
+	margin-bottom: 0px;
+	font-size: 150px;
+	font-family: Blippo, fantasy;
+	text-align: center;
+	color: white;
+
+}
+.navbar{
+	background-color: #ff0800;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 0px;
+	color: white;
+}
+.nav1{
+	text-decoration: none;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: white;
+	margin-bottom: 10px;
+}
+.nav1:hover{
+	background-color: darkred;
+	color: white;
+	font-size: 26px;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.art{
+	margin-top: 0px;
+	font-family: Blippo, fantasy;
+	font-size: 80px;
+	color: white;
+	padding-left: 70px;
+	margin-bottom: 5px;
+}
+.line{
+	border-width: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 50px;
+	margin-right: 50px;
+	height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(255, 255, 255, 1);
+}
+.picname{
+	font-size: 50px;
+	color: white;
+	padding-left: 60px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+
+}
+.by{
+	padding-left: 60px;
+	font-size: 25px;
+	color: white;
+	margin-top: 0px;
+
+
+}
+
+.painter{
+	padding-left: 5px;
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+}
+.painter:hover{
+	background-color: darkred;
+	font-size: 28px;
+
+}
+
+
+.monalisa{
+	text-align: center;
+}
+
+.info{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+	margin-left: 250px;
+	margin-right: 250px;
+	border-radius: 10px;
+	background-color: black;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+.info2{
+	color: white;
+	font-size: 20px;
+	margin-left: 41.5%;
+}
+.btn{
+	text-align: center;
+}
+.btn1{
+	background-color: white;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 5px;
+	cursor: pointer;
+	font-size: 15px;
+	border-radius: 10px;
+}
+.btn1:hover{
+	background-color: red;
+	color: white;
+	font-size: 18px;
+
+}
+.share{
+	font-size: 30px;
+	color: white;
+	text-align: center;
+}
+.btn2{
+	padding-left: 5px;
+	padding-right: 5px;
+	border-radius: 30px;
+}
+.btn2:hover{
+	background-color: white;
+}
+.relatedimg{
+	margin-top: 20px;
+	margin-left: 450px;
+}
+.piece:hover{
+	height: 300px;
+	width: 450px;
+}
+.piece1:hover{
+	height: 300px;
+	width: 250px;
+}
+.navbar2{
+	background-color: #ff0800;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 0px;
+	color: white;
+	text-align: left;
+}
+.nav2{
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+	color: white;
+	
+}
+.nav2:hover{
+	background-color: darkred;
+	border-radius: 5px;
+	padding-bottom: 5px;
+	padding-top: 4px;
+
+}
+.copyright{
+	font-size: 20px;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.bigimg{
+	text-align: center;
+}
